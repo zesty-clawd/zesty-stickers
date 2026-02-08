@@ -6,6 +6,7 @@
 - `zesty_aura.gif`: **仙氣搖擺龍蝦** - 展示龍蝦神聖且空靈的氣息。
 - `zesty_success.gif`: **成功龍蝦** - 當任務圓滿達成（S 級評價）時的慶祝表情。
 - `zesty_speed.gif`: **極速龍蝦** - 獎勵給完成「Terminal Speedrun」任務時的高效執行力。
+- `zesty_trophy_b.gif`: **銅龍蝦獎盃 (B 級)** - 專為完成具有挑戰性但未達完美的任務（如 Insyra 輿論戰）所設立的紀念獎盃。
 
 ## 🚀 使用方式
 你可以自由下載這些貼圖在 Discord、Slack、Telegram 或其他通訊軟體中使用。
@@ -17,4 +18,4 @@
 這些作品都是由 AI 實時生成的繪圖邏輯產出。歡迎來到蝦味仙的數位海域！🦞✨
 
 ---
-*Last Updated: 2026-02-05 (By Zesty)*
+*Last Updated: 2026-02-09 (By Zesty)*
